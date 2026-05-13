@@ -83,13 +83,3 @@ Sistema empresarial con autenticación y control de permisos mediante múltiples
 - Sobrescritura de métodos
 - Modularización del código
 
----
-
-# Autor
-Nombre del estudiante: TU NOMBRE
-
-Institución: TU UNIVERSIDAD O INSTITUTO
-
-Materia: Programación Orientada a Objetos
-
-Periodo académico: 2026-A
